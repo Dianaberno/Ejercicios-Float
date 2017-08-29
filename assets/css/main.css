@@ -1,0 +1,17 @@
+p {
+    font-size: 1.4em;
+    text-align: justify;
+}
+
+img {
+    height: 150px;
+}
+
+.css {
+    margin: 0 1.8rem;
+    float: left;
+}
+
+.html {
+    float: right;
+}
