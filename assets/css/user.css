@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+img {
+    height: 100px;
+    float: left;
+}
+
+div {
+    width: 240px;
+    border: 1px solid black;
+    position: relative;
+    padding-left: 100px;
+}

@@ -1,0 +1,15 @@
+body {
+    padding: 30px;
+}
+
+.anterior {
+    float: left;
+}
+
+.siguiente {
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
